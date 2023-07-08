@@ -4,7 +4,8 @@
       "adUnits": [
                         "appOpen",
                         "smallNative",
-                        "interstitial"
+                        "interstitial",
+                        "splash"
                     ],
                     "name": "admob",
                     "banner": "ca-app-pub-2299291161271404/4684345577",
@@ -32,5 +33,6 @@
     }
   ],
   "apiKey": "0f020a66f3e35379eef31c31363f2176",
-  "showinterstitial": 0
+  "showinterstitial": 0,
+  "showrate": false
 }
