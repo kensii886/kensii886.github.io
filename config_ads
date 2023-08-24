@@ -3,7 +3,9 @@
     {
       "adUnits": [
         "appOpen",
-        "smallNative"
+        "smallNative",
+        "splash",
+        "interstitial"
       ],
       "name": "admob",
       "banner": "ca-app-pub-2299291161271404/4684345577",
@@ -17,7 +19,8 @@
     {
       "adUnits": [
         "appOpen",
-        "smallNative"
+        "smallNative",
+        "interstitial"
       ],
       "name": "applovin",
       "banner": "788dba4ba02503f6",
