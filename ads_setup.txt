@@ -1,0 +1,32 @@
+{
+  "adKinds": [
+    {
+      "adIds": [
+        "appOpen",
+        "native"
+      ],
+      "kind": "admob",
+      "banner": "ca-app-pub-2299291161271404/3444987301",
+      "interstitial": "ca-app-pub-2299291161271404/2076312735",
+      "splash": "ca-app-pub-2299291161271404/7707913369",
+      "native": "ca-app-pub-2299291161271404/9763231067",
+      "appOpen": "ca-app-pub-2299291161271404/7192660620",
+      "reward": "ca-app-pub-2299291161271404/5081750029"
+    },
+    {
+      "adIds": [
+        "appOpen",
+        "native"
+      ],
+      "kind": "applovin",
+      "banner": "0e71beedac160b54",
+      "interstitial": "23fc8bbbdb1cd534",
+      "splash": "f9aeac22e0fdec9a",
+      "native": "a1f7eeeccc6a8fd9",
+      "appOpen": "93842e76dc132ec6",
+      "reward": "2aa58dab5ba15262"
+    }
+  ],
+  "adNumber": 0,
+  "adReward": null
+}
