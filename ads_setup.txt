@@ -3,8 +3,7 @@
     {
       "adIds": [
         "appOpen",
-        "native",
-        "banner"
+        "native"
       ],
       "kind": "admob",
       "banner": "ca-app-pub-2299291161271404/3444987301",
