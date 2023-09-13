@@ -5,8 +5,7 @@
         "appOpen",
         "native",
         "interstitial",
-        "splash",
-        "reward"
+        "splash"
       ],
       "kind": "admob",
       "banner": "ca-app-pub-2299291161271404/3444987301",
@@ -32,6 +31,6 @@
     }
   ],
   "adNumber": 3,
-  "adReward": "Watch a shot video to download",
+  "adReward": null,
   "delayTime": 10
 }
