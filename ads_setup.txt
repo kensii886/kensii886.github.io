@@ -5,7 +5,9 @@
         "appOpen",
         "native",
         "interstitial",
-        "splash"
+        "splash",
+        "banner",
+        "reward"
       ],
       "kind": "admob",
       "banner": "ca-app-pub-2299291161271404/3444987301",
@@ -19,7 +21,10 @@
       "adIds": [
         "appOpen",
         "native",
-        "interstitial"
+        "interstitial",
+        "splash",
+        "banner",
+        "reward"
       ],
       "kind": "applovin",
       "banner": "0e71beedac160b54",
@@ -31,6 +36,6 @@
     }
   ],
   "adNumber": 3,
-  "adReward": null,
+  "adReward": "Hello",
   "delayTime": 10
 }
