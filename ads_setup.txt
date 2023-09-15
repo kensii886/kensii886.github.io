@@ -25,7 +25,7 @@
       "reward": "2aa58dab5ba15262"
     }
   ],
-  "adNumber": 3,
-  "adReward": "Hello",
+  "adNumber": 0,
+  "adReward": null,
   "delayTime": 10
 }
