@@ -17,7 +17,6 @@
         "appOpen",
         "native",
         "interstitial",
-        "splash",
         "reward"
       ],
       "kind": "applovin",
