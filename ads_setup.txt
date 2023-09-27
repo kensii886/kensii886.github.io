@@ -2,18 +2,19 @@
   "adKinds": [
     {
       "adIds": [
+        "splash"
       ],
       "kind": "admob",
       "banner": "",
       "interstitial": "",
-      "splash": "",
+      "splash": "ca-app-pub-2299291161271404/2243270010",
       "native": "",
       "appOpen": "",
       "reward": ""
     },
     {
       "adIds": [
-         "appOpen",
+        "appOpen",
         "native",
         "interstitial",
         "splash",
