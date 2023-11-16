@@ -12,27 +12,28 @@
       "interstitial": "ca-app-pub-2299291161271404/5860598393",
       "splash": "ca-app-pub-2299291161271404/4024772549",
       "appOpen": "ca-app-pub-2299291161271404/3263452697",
-      "smallNative": "ca-app-pub-2299291161271404/2940019068",
+      "native": "ca-app-pub-2299291161271404/2940019068",
       "mediumNative": "ca-app-pub-2299291161271404/6132061130",
       "manualNative": "ca-app-pub-2299291161271404/7589710514"
     },
     {
       "adUnits": [
-        "appOpen",
         "smallNative",
+        "appOpen",
         "interstitial"
       ],
       "name": "applovin",
       "banner": "788dba4ba02503f6",
       "interstitial": "a73d9e915062c92b",
-      "splash": "",
+      "splash": "0c9d762434cc7e91",
       "appOpen": "d8109b64b622d272",
-      "smallNative": "c86140f106abc47d",
+      "native": "c86140f106abc47d",
       "mediumNative": "6cbf5e7c39660ffc",
       "manualNative": "056145d78d496df1"
     }
   ],
   "apiKey": "0f020a66f3e35379eef31c31363f2176",
   "showinterstitial": 0,
-  "showrate": true
+  "showrate": false,
+  "akmnb": "sDgK6y9L0HLtPZZNaaJ3cq09Y8ZtCPN8rxksaf4SXto="
 }
