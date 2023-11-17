@@ -1,8 +1,7 @@
 {
   "adKinds": [
     {
-      "adIds": [
-      ],
+      "adIds": [],
       "kind": "admob",
       "banner": "",
       "interstitial": "",
@@ -13,7 +12,11 @@
     },
     {
       "adIds": [
-        "native"
+        "native",
+        "interstitial",
+        "splash",
+        "appOpen",
+        "reward"
       ],
       "kind": "applovin",
       "banner": "0e71beedac160b54",
@@ -24,7 +27,7 @@
       "reward": "2aa58dab5ba15262"
     }
   ],
-  "adNumber": 0,
-  "adReward": null,
+  "adNumber": 3,
+  "adReward": "Watch a short video to download",
   "delayTime": 10
 }
